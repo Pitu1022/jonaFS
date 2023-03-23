@@ -8,3 +8,10 @@ git remote add origin https.....
 git remote -v   muestra si esta vinculado push y pull
 agregar commit
 git commit -m " "
+modificaciones
+git status
+git add . agrega todas 
+git add "nombre del archivo"
+git commit -m "nombre del modificado"
+git push origin master -lo manda al hub"
+
