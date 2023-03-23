@@ -1,3 +1,4 @@
 git status-muestra estado
 git add -nombre.txt
 git status lo mostraria en rojo
+git add .  agrega todo 
