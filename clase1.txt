@@ -1,0 +1,10 @@
+Configuracion del git
+carpeta git abrir con git bash here
+git config -l -muestra bajo quien responde dicha pc
+git config --global user.name " "
+git config --global user.email " "
+para agregar repositorio
+git remote add origin https.....
+git remote -v   muestra si esta vinculado push y pull
+agregar commit
+git commit -m " "
